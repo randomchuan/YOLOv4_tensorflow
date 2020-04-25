@@ -1,0 +1,2 @@
+/home/random/文档/YOLO/YOLOv4_tensorflow/data/JPEGImages/50108/63.jpg
+/home/random/文档/YOLO/YOLOv4_tensorflow/data/JPEGImages/50108/61.jpg
